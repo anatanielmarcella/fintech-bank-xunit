@@ -1,5 +1,6 @@
 using Xunit;
 using FintechBank.App;
+using FintechBank.App.Services;
 
 namespace FintechBank.Tests;
 
