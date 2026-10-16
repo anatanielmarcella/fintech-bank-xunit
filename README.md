@@ -1,13 +1,13 @@
 # Fintech Bank
 
-Projeto acadêmico desenvolvido em C# para praticar regras de negócio e testes unitários com xUnit.
+Projeto acadÃªmico desenvolvido em C# para praticar regras de negÃ³cio e testes unitÃ¡rios com xUnit.
 
 ## Funcionalidades
 
-- Cálculo de taxa de manutenção de conta corrente.
-- Validação de saques com cheque especial.
-- Cálculo de parcelas de empréstimos.
-- Aprovação de empréstimos conforme a renda mensal.
+- CÃ¡lculo de taxa de manutenÃ§Ã£o de conta corrente.
+- ValidaÃ§Ã£o de saques com cheque especial.
+- CÃ¡lculo de parcelas de emprÃ©stimos.
+- AprovaÃ§Ã£o de emprÃ©stimos conforme a renda mensal.
 
 ## Tecnologias
 
@@ -18,9 +18,14 @@ Projeto acadêmico desenvolvido em C# para praticar regras de negócio e testes un
 
 ## Estrutura
 
-- FintechBank.App: regras de negócio.
+- FintechBank.App: regras de negÃ³cio.
 - FintechBank.Tests: testes automatizados.
 
 ## Como executar os testes
 
 Execute dotnet test no terminal, na pasta do projeto.
+
+## Autores
+
+- Marcella Anataniel Souza
+- Gabriel Gobira
